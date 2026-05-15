@@ -8,7 +8,7 @@ I enjoy combining **game development expertise** with emerging technologies like
 
 ---
 
-## 🔧 Tech Stack  
+## Tech Stack  
 - **Languages:** C#, Rust, Dart, JavaScript, SQL, HTML, CSS  
 - **Game Engines & Platforms:** Unity, VR, Netcode for GameObjects, FishNet  
 - **Frameworks:** ASP.NET, Entity Framework, React Native, Flutter
