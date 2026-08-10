@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Luke Taylor  
 
-🎮 **Unity Developer | VR • EEG Integration • Free-to-Play Games**  
+**Unity Developer | VR • EEG Integration • Free-to-Play Games**  
 
 I’m a **Senior Unity Developer** with 8+ years of experience building interactive applications — from **casino and free-to-play poker games generating $4M+ annual revenue**, to **VR simulations** and **EEG-driven visualisation systems**.  
 
